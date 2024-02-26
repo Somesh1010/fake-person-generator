@@ -1,6 +1,6 @@
 # Fake Person Generator
 
-The Fake Person Generator is a tool designed to create fictitious identities on-the-fly, with a specific focus on cybersecurity applications. This innovative tool generates detailed yet entirely fictional profiles, including names, ages, occupations, addresses, phone number, pincode, SSN number, date of birth, email address, and gender. It leverages a sophisticated algorithm to ensure each identity is unique and realistic, drawing from a vast database of diverse characteristics.
+The Fake Person Generator is a tool designed to create fictitious identities on-the-fly, with a specific focus on cybersecurity applications. This innovative tool generates detailed yet entirely fictional profiles, including names, ages, occupations, addresses, phone numbers, pin codes, SSN numbers, dates of birth, email addresses, and genders. It leverages a sophisticated algorithm to ensure each identity is unique and realistic, drawing from a vast database of diverse characteristics.
 
 ## Key Features
 
@@ -26,3 +26,9 @@ The Fake Person Generator is a tool designed to create fictitious identities on-
 1. Access the application through the provided URL or by running it locally.
 2. Customize parameters (if desired) and generate fictitious identities.
 3. Explore the generated profiles for various cybersecurity applications.
+
+## Try It Out
+
+Test the tool [here](https://someshwarchopade.000webhostapp.com/fakepersongenerator/).
+
+Feel free to explore the application and generate fictitious identities for your cybersecurity needs!
